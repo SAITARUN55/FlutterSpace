@@ -9,7 +9,7 @@ An App for Blind People which can speak whatever the object is in front of them.
 
 ## Output
 <img src="images/vase.jpeg" />
-<img src="images/potted_plant.jpeg" />
+<img src="images/potted_plant.jpg" />
 
 ## Feel like Contributing to the Project?
 
