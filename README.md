@@ -7,9 +7,17 @@ An App for Blind People which can speak whatever the object is in front of them.
 <ul><li>Detection of Object </li></ul>
 <ul><li>Speak the Object Name if Confidence in Class is greater than 50 </li></ul>
 
-## Output
+## Screenshots
 <img src="images/vase.jpeg" />
 <img src="images/potted_plant.jpg" />
+<img src="images/scooty.jpg" />
+<img src="images/wagonrcar.jpg" />
+<img src="images/pottedplantandbicycle.jpg" />
+<img src="images/bicycle.jpg" />
+<img src="images/car.jpg" />
+<img src="images/car1.jpg" />
+<img src="images/bicycle1.jpg" />
+<img src="images/dog.jpg" />
 
 ## Feel like Contributing to the Project?
 
